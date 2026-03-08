@@ -1,0 +1,4 @@
+.streamlit/
+clinic_system.db
+__pycache__/
+.env
